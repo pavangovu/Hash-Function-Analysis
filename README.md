@@ -14,5 +14,3 @@ With the growing popularity of the Internet of Things (IoT), more and more devic
 - Pandas
 - Seaborn
 
-## Results
-
